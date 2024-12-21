@@ -30,3 +30,6 @@ Welcome to my GitHub profile! I'm passionate about creating beautiful and functi
 ## 📫 Connect with me
 Feel free to reach out if you want to collaborate on projects or just chat about tech!
 
+## Reach me
+You can reach me at elsabethzeleke1000@gmail.com or https://www.linkedin.com/in/elsabeth-zeleke/
+
