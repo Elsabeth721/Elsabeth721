@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Elsabeth Zeleke 👋
 
-<!--
-**Elsabeth721/Elsabeth721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about creating beautiful and functional user interfaces for the web and mobile applications.
 
-Here are some ideas to get you started:
+## 🌐 Interests
+- Frontend Website Development
+- Mobile App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies & Tools
+- **Frontend**: 
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Tailwind CSS
+- **Mobile Development**:
+  - Flutter
+  - Dart
+- **Programming Languages**:
+  - C++
+
+## 📫 Connect with me
+Feel free to reach out if you want to collaborate on projects or just chat about tech!
+
+- [LinkedIn]([your-linkedin-ur](https://www.linkedin.com/in/elsabeth-zeleke/)l)
